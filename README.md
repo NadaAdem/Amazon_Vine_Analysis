@@ -23,12 +23,12 @@ Finally, two more DataFrames are created to separate Filter  between reviews wri
  
 ![image](https://github.com/NadaAdem/Amazon_Vine_Analysis/blob/main/Resources/unpaid.png)
 
-
+### Vine reviews (paid)
 -  There are 613  Vine reviews.
   - 222 of Vine reviews gave 5-stars.
   - Approximately 36.21% of Vine reviews were 5-stars.
   
-  
+### Non-Vine reviews (unpaid) 
 -  There are 64968 non-Vine reviews.
   - 30543 non-Vine reviews gave 5-stars.
   -  Approximately 47.01% of non-Vine reviews were 5-stars.
