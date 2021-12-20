@@ -36,3 +36,9 @@ Finally, two more DataFrames are created to separate Filter  between reviews wri
 
 
 ## Summary:
+Based on this analysis, we can say that the 5 stars reviews are not the majority in the paid review. 
+
+
+### Recommendations additional analysis
+
+One additional analysis that could be performed on this dataset to further research the possibility of positivity bias  , By analysis specific products, that we could minimize the results and create a different dataset on just Vine products.
